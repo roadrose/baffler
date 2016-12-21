@@ -20,8 +20,8 @@ package com.holysilent.baffler.core;
 /**
  *
  * @author holy-silent
- * @date 2016-7-17 ионГ9:39:24
+ * @date 2016-7-17 О©╫О©╫О©╫О©╫9:39:24
  */
 public class Test {
-
+    System.out.println("hello baffler");
 }
